@@ -1,4 +1,3 @@
-/* const openModal = document.querySelector("#open-modal"); */
 const openModal = document.querySelectorAll("#open-modal");
 const closeModal = document.querySelector("#close-modal");
 const modal = document.querySelector("#modal");
