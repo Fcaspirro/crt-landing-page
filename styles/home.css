@@ -42,7 +42,7 @@ header {
 }
 
 .home {
-  background: url('/assets/img/bkg-circus.png');
+  background: url('.././assets/img/bkg-circus.png');
   background-size: cover;
   background-position: center center;
   height: 100vh;
