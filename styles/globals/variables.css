@@ -1,0 +1,22 @@
+:root {
+
+    /* Font Colors */
+
+    --white-color: #fff;
+    --black-color: #000;
+    --marine-blue: #101A23;
+    --main-text-color: #0E1E2D;
+    --content-text-color: #0E1E2D;
+    --background-color: #F5F5F5; 
+    --content-color: #EBEBEB;   
+    --footer: #D9D9D9;
+    --red: #D83B36;
+
+    /* Font Sizes */
+
+    --sm: 8px;
+    --md: 12px;
+    --lg: 16px;
+    --xl: 24px;
+    --xxl: 32px;
+}
