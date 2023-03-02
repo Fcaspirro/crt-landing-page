@@ -725,10 +725,6 @@ select:focus {
 }
 
 @media (max-width: 720px) {
-  
-  .home {
-    height: 80vh;
-  }
 
   .content {
     padding: 4rem 2rem;
