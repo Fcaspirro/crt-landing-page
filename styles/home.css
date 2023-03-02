@@ -379,14 +379,26 @@ footer a {
 .thanks {
   margin: 4rem 0;
   width: 600px;
-  font-size: 3rem;
   padding-left: 6rem;
   color: var(--main-text-color);
+}
+
+.thanks h4 {
+  font-size: 48px;
 }
 
 .thanks h4,
 .copy p {
   font-weight: 275;
+}
+
+.copyright a {
+  font-size: var(--lg);
+  color: var(--red);
+}
+
+.copy a:hover {
+  text-decoration: underline;
 }
 
 .line {
@@ -578,7 +590,11 @@ select:focus {
     margin: 0 auto;
   }
 
-  .copy p{
+  .box_copy .copyright {
+    padding-left: 2rem;
+  }
+
+  .copy p, .copy a {
     font-size: 14px;
   }
 
